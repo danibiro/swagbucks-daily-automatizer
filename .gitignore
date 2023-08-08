@@ -1,0 +1,8 @@
+# user-specific files
+user_config.yaml
+
+# Cron job log
+log.txt
+
+# Visual Studio Code settings folder
+.vscode
