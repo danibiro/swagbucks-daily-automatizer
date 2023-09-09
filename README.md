@@ -15,4 +15,8 @@ You also need to have [Python](https://www.python.com) and [Selenium](https://se
 
 ## Automatization
 
-In order to completely automatize the process, you need a cron job (on Linux) to do the task in the background for you. You can use [Crontab](https://crontab.guru/), I've included a shell script for you to run in the cron job.
+In order to completely automatize the process, you need a cron job (on Linux) to do the task in the background for you. You can use [Crontab](https://crontab.guru/), I've included a shell script for you to run in the cron job. You can view the logs in the `log.txt` file.
+
+## Running the shell script
+
+`./run.sh ${your_path_to_python_file}`
